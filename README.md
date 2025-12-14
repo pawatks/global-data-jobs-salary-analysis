@@ -37,9 +37,11 @@ Raw job posting data was cleaned and transformed using Power Query:
 - Built reusable queries for refreshable analysis
 
 **Power Query – Job Data**
+
 ![Power Query Job Data](images/Screenshot1.png)
 
 **Power Query – Skills Table**
+
 ![Power Query Skills](images/Screenshot2.png)
 
 ---
@@ -52,9 +54,11 @@ A relational data model was built using Power Pivot:
 - One-to-many relationship on `job_id`
 
 **Data Model Relationship**
+
 ![Data Model](images/Screenshot3.png)
 
 **Power Pivot Interface**
+
 ![Power Pivot](images/Screenshot4.png)
 
 ---
